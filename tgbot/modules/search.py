@@ -51,8 +51,8 @@ async def search_source(message: Message):
     env = Env()
     env.read_env()
 
-    token = env.str("BOT_TOKEN")
-    api_key = env.str("SAUCE_API")
+    token = env.str("5026714029:AAFOJ2HaVB34kDA2K71cgdVDTzTUK3IceO0")
+    api_key = env.str("09a55bb410a253f95b15330f3fc67afce345d05f")
 
     photo_path = os.path.join('tgbot', 'photos', 'search_photo.jpg')
 
