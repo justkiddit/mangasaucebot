@@ -11,7 +11,7 @@ from tgbot.postgresql.models import Base
 async def main():
     env = Env()
     env.read_env()
-    token = env.str("BOT_TOKEN")
+    token = env.str("5026714029:AAFOJ2HaVB34kDA2K71cgdVDTzTUK3IceO0")
 
     logger.info("Start database...")
     async with engine.begin() as conn:
