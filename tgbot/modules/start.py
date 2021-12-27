@@ -15,7 +15,7 @@ async def start_command(message: Message):
     keyboard = InlineKeyboardMarkup(row_width=3)
 
     keyboard.add(
-        InlineKeyboardButton('github', url='https://github.com/waydk/anisourcebot')
+        InlineKeyboardButton('github', url='https://github.com/justkiddit/mangsaucebot')
     )
 
     user = message.from_user
