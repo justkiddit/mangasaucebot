@@ -13,4 +13,4 @@ A Telegram bot that searches for the original source of anime, manga, and art
 * Python 3.8.10 ++
 * Saucenao [api key](https://saucenao.com/user.php?page=search-api)
 * BotFather [token](https://t.me/BotFather)
-* Python [packages](https://github.com/waydk/anisourcebot/blob/main/requirements.txt)
+* Python [packages](https://github.com/justkiddit/mangasaucebot/blob/main/requirements.txt)
